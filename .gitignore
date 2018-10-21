@@ -1,2 +1,4 @@
 *.vcd
 *.v
+__pycache__/
+*.pyc
